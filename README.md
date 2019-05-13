@@ -14,5 +14,7 @@ CodeLab Mindstorms关注编程教育,  计划翻译和解读编程教育领域�
 
 待翻译列表放在[Projects](https://github.com/Scratch3Lab/codelab-mindstorms/projects)中，大家可自行认领感兴趣的文章。
 
+翻译完成后，将译文markdown文件放入`译文`目录，提一个Pull Request。
+
 # 发布
 以翻译者的名义(codelab志愿者)发表在[codelab blog](https://www.codelab.club/blog/), 允许转载。授权协议为[自由转载-非商用-非衍生-保持署名](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
