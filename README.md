@@ -18,3 +18,9 @@ CodeLab Mindstorms关注编程教育,  计划翻译和解读编程教育领域�
 
 # 发布
 以翻译者的名义(codelab志愿者)发表在[codelab blog](https://www.codelab.club/blog/), 允许转载。授权协议为[自由转载-非商用-非衍生-保持署名](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
+
+# 文章列表
+| 原文 | 译文 | 译者 |
+| ------ | ------ | ------ |
+| [Why Python is a great language...](http://pgbovine.net/python-teaching.htm) | [为什么Python对于...](https://github.com/Scratch3Lab/codelab-mindstorms/blob/master/%E8%AF%91%E6%96%87/python-teaching.md) | [郭瑞彪](https://github.com/guoruibiao) |
+| [Background On How Children Learn](http://www.squeakland.org/resources/articles/article.jsp?id=1003) | 翻译中... | 杨柳青 |
