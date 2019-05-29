@@ -8,8 +8,9 @@ David说：
 
 >  我认为计算思维的定义是一个很好的起点，计算思维是表征问题及其解决方案所涉及的思维过程，从而使解决方案能够以一种由信息加工媒介有效执行的形式来表示。”（Cuny，Snyder，Wing，2010）。
 
+他逐渐形成了这一立场, [像Shuchi一样](https://computinged.wordpress.com/2018/12/07/maybe-theres-more-that-one-kind-of-computational-thinking/) 
+ ,提出了计算思维的两种定义。
 
-他逐渐形成了这一立场，[像Shuchi一样](https://computinged.wordpress.com/2018/12/07/maybe-theres-more-that-one-kind-of- computational-thinking/)，提出了计算思维的两种定义。
 
 >  这意味着什么？我认为，对于如何定义计算思维，我们有两个明确的选择。
 
@@ -24,7 +25,7 @@ David说：
 
 在我生活的计算机科学方面，我的研究领域是人机交互。我在CHI, DIS, CSCW, VL/HCC和UIST上发表过文章。Cuny，Snyder和Wing的定义很难让我与人机交互研究员协调一致。人机交互研究的目的是为了“表征问题及其解决方案，从而使解决方案能够以一种由信息加工媒介有效执行的形式来表示。”以将用户必须学习的知识最小化，人机交互正试图让用户更容易用计算机思考他们想要考虑的事情。计算思维是关于你需要用计算机思考什么的思维。
 
-在过去几周的博客中，我一直在探索[特定任务的编程语言的概念](https://computinged.wordpress.com/2019/03/25/task-specific-programming-languages-past-guzdial-is-smarter-than-present-guzdial/)。在3月初我们举办的一个参与式设计会议上，我惊讶地发现，教师可以用Vega-Lite（交互式图形的语法）做多少社会研究。[Sarah Chasin、Helena和Rousillon的合作](https://computinged.wordpress.com/2019/04/15/a-task-specific-programming-language-for-web-scraping/)绝对令人震惊，因为人们不需要训练就能取得如此大的成就。Hariharan Subramonyam给我发了一篇关于终端用户编程以及如何最小化终端用户开始编程所花费的精力的精彩文章:https://www.inkandswitch.com/end-user-programming.html。正如我在[SIGCSE 2019主题演讲](https://computinged.wordpress.com/2019/03/02/a-crowdsourced-blog-post-about-my-sigcse-keynote-computing-education-as-a-foundation-for-21st-century-literacy/)中谈到的那样，
+在过去几周的博客中，我一直在探索[特定任务的编程语言的概念](https://computinged.wordpress.com/2019/03/25/task-specific-programming-languages-past-guzdial-is-smarter-than-present-guzdial/)。在3月初我们举办的一个参与式设计会议上，我惊讶地发现，教师可以用Vega-Lite（交互式图形的语法）做多少社会研究。[Sarah Chasin、Helena和Rousillon的合作](https://computinged.wordpress.com/2019/04/15/a-task-specific-programming-language-for-web-scraping/)绝对令人震惊，因为人们不需要训练就能取得如此大的成就。Hariharan Subramonyam给我发了一篇关于终端用户编程以及如何最小化终端用户开始编程所花费的精力的精彩文章:https://www.inkandswitch.com/end-user-programming.html。 正如我在 [SIGCSE 2019主题演讲](https://computinged.wordpress.com/2019/03/02/a-crowdsourced-blog-post-about-my-sigcse-keynote-computing-education-as-a-foundation-for-21st-century-literacy/)中谈到的那样，
 启动程序：代数和Scratch的大部分使用实际上都依赖于少量的计算概念。即使是少量的计算也有表达和学习的能力。
 
 2009年Michael Mateas写了一篇文章，影响了我的思考。我在博客上写道：“[总会有摩擦](https://computinged.wordpress.com/2009/10/06/there-will-always-be-friction/)。”迈克尔看了看1961年Alan Perlis的演讲(我经常谈论和写作这个话题)，尤其是与Peter Elias的对话。Elias认为，学生不应该学习编程——计算机应该学习理解我们。Perlis和Mateas都不认可，他们觉得计算机永远无法完全理解我们。人类可以顺利沟通，但是计算机不能。人机交互始终存在着挑战。人机之间总会有摩擦，而管理摩擦是人类的工作。
