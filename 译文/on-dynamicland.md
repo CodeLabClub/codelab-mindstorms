@@ -36,13 +36,13 @@ Bret Victor 在 2014 年有一个的谈话分享，我从中理解到：他说�
 
 几年之后，我的推特时间线被 Dynamicland 的参与者搞得有些混乱。我花了一分钟才明白我所看到的 Dynamicland，但如果你点击这条推特，就可以很好地理解 Dynamicland：
 
-<a href="https://twitter.com/redblobgames/status/907253802931126272/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E907253802931126272%7Ctwgr%5E393039363b636f6e74726f6c&ref_url=http%3A%2F%2Fvitor.io%2Fon-dynamicland" rel="some text">![Foo](./image/20190612145820.png)]</a>
+<a href="https://twitter.com/redblobgames/status/907253802931126272/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E907253802931126272%7Ctwgr%5E393039363b636f6e74726f6c&ref_url=http%3A%2F%2Fvitor.io%2Fon-dynamicland" rel="some text">![Foo](./image/20190612145820.png)</a>
 
 这个项目起源于 Bret Victor 所在的 Y Combinator HARC 实验室。Dynamicland 是一个允许通过实体对象和交互方式编程的工坊，整个房间就是程序员的 IDE。
 
 但是有另一条推特说道
 
-<a href="https://twitter.com/mandy3284/status/906764328279318528/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E906764328279318528%7Ctwgr%5E393039363b636f6e74726f6c&ref_url=http%3A%2F%2Fvitor.io%2Fon-dynamicland" rel="some text">![Foo](./image/20190612150906.png)]</a>
+<a href="https://twitter.com/mandy3284/status/906764328279318528/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E906764328279318528%7Ctwgr%5E393039363b636f6e74726f6c&ref_url=http%3A%2F%2Fvitor.io%2Fon-dynamicland" rel="some text">![Foo](./image/20190612150906.png)</a>
 
 我在这里引用一下这段话：
 
