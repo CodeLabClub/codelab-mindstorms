@@ -29,7 +29,7 @@
 
 ## 倡导者
 
-[Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) 是 RubyTalk 的作者之一，[Sandi Metz](https://www.youtube.com/watch?v=29MAL8pJImQ) OOP 在 Ruby 世界中提倡。
+[Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) 是 SmallTalk 的作者之一，[Sandi Metz](https://www.youtube.com/watch?v=29MAL8pJImQ) OOP 在 Ruby 世界中提倡。
 
 [Bjarne Stroustrup](https://www.youtube.com/watch?v=JBjjnqG0BP8) 是 C ++ 的作者，[Grady Booch](https://en.wikiquote.org/wiki/Grady_Booch) 是 UML 的作者。
 
