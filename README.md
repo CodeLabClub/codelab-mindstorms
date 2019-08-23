@@ -25,7 +25,9 @@ CodeLab Mindstorms关注编程教育,  计划翻译和解读编程教育领域�
 | [Why Python is a great language...](http://pgbovine.net/python-teaching.htm) | [为什么Python对于...](https://github.com/Scratch3Lab/codelab-mindstorms/blob/master/%E8%AF%91%E6%96%87/python-teaching.md) | [郭瑞彪](https://github.com/guoruibiao) |
 | [Background On How Children Learn](http://www.squeakland.org/resources/articles/article.jsp?id=1003) | [儿童学习的背景](https://github.com/Scratch3Lab/codelab-mindstorms/blob/master/%E8%AF%91%E6%96%87/Background-On-How-Children-Learn.md) | 杨柳青 |
 | [Kill Math](http://worrydream.com/#!/KillMath) | [Kill Math: 让数学不只是符号](https://github.com/Scratch3Lab/codelab-mindstorms/blob/master/%E8%AF%91%E6%96%87/kill-math.md) | [王松](https://github.com/wangshub) |
+| [Dynamicland, seeing spaces, and design studio](http://vitor.io/on-dynamicland) | [Dynamicland, 可视空间和设计工坊](https://thinkhard.tech/2019/06/13/on-dynamicland/) | [王松](https://github.com/wangshub) |
 | [A new definition of Computational Thinking...](https://computinged.wordpress.com/2019/04/29/what-is-computational-thinking-its-the-friction-that-we-want-to-minimize/) | [计算思维的新定义](https://github.com/Scratch3Lab/codelab-mindstorms/blob/master/%E8%AF%91%E6%96%87/A-new-definition-of-Computational-Thinking.md) | 廖曼江 |
 | [Thought as a Technology](http://cognitivemedium.com/tat/) | [思想--作为一种技术](https://www.codelab.club/blog/thought-as-a-technology/) | 吴文杰 |
 | [TWO BIG SCHOOLS OF OBJECT-ORIENTED PROGRAMMING](http://stereobooster.github.io/two-big-schools-of-object-oriented-programming) | [面向对象编程(OOP)的两大学派](https://github.com/Scratch3Lab/codelab-mindstorms/blob/master/%E8%AF%91%E6%96%87/Two-Big-Schools-Of-Object-Orinted-Programming.md) | [Angel_Kitty](https://github.com/AngelKitty) |
+
 
