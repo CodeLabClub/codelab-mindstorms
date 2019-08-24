@@ -48,7 +48,7 @@ C ++，Java
 > 3. 对象有自己的内存（就对象而言）。
 > 4. 每个对象都是一个类的实例（必须是一个对象）。
 > 5. 该类保存其实例的共享行为（以程序列表中的对象的形式）。
-> 6. 为了评估程序列表，控制权被传递给第一个对象，剩余部分被视为其消息。
+> 6. 为了求解程序列表的值，控制权被传递给第一个对象，剩余部分被视为其消息。
 >
 > [Smalltalk 的早期历史](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 
@@ -91,7 +91,7 @@ C ++，Java
 
 ### 关于图表的说明
 
-来自演员模型的消息与 Kay 的 OOP 不同。但这两个概念都通过消息分享了沟通的想法。
+来自演员模型（actor model）的消息与 Kay 的 OOP 不同。但这两个概念都通过消息分享了沟通的想法。
 
 在 Kay 的 OOP 中，可以在[没有内置 if-else 的情况下组织程序流](http://yehudakatz.com/2009/10/04/emulating-smalltalks-conditionals-in-ruby/)。在 Stroustrup 的 OOP 中它也是可能的，但它不是内置功能，所以大多数时候它与程序配对 `if-else`。
 
@@ -102,7 +102,7 @@ C ++，Java
 - 1963年 - Ivan Sutherland 的 Sketchpad 被认为是面向对象和 GUI 的开创性工作。
 - 1967年 - Simula 出现了，它或者 SmallTalk 是否应该被认为是第一个面向对象的语言仍然是一个争论的问题。
 - 1969年 - Dennis Ritchie 开始发展 C。
-- 1972年 - 出现了 **SmallTalk**。这是 **Alan Kay** 的心血结晶，谁创造的术语“面向对象”。
+- 1972年 - 出现了 **SmallTalk**。这是 **Alan Kay** 的心血结晶，他创造的术语“面向对象”。
 - 1979年 - **Bjarne Stroustrup** 开始使用 **C ++**（**C ++**的前身）开发 **C 语言**。
 - 1983年 - Objective C 出现，基本上是努力将 SmallTalk 的面向对象的味道添加到 C。
 - 1985年 - Object Pascal 出现，并且几乎立即被 Turbo Pascal 5.5 普及。
