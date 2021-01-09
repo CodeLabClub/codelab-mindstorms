@@ -30,7 +30,7 @@ CodeLab Mindstorms关注编程教育,  计划翻译和解读编程教育领域�
 | [Thought as a Technology](http://cognitivemedium.com/tat/) | [思想--作为一种技术](https://www.codelab.club/blog/thought-as-a-technology/) | 吴文杰 |
 | [TWO BIG SCHOOLS OF OBJECT-ORIENTED PROGRAMMING](http://stereobooster.github.io/two-big-schools-of-object-oriented-programming) | [面向对象编程(OOP)的两大学派](https://github.com/Scratch3Lab/codelab-mindstorms/blob/master/%E8%AF%91%E6%96%87/Two-Big-Schools-Of-Object-Orinted-Programming.md) | [Angel_Kitty](https://github.com/AngelKitty) |
 | [Design Principles Behind Smalltalk](https://www.codelab.club/blog/design-principles-behind-smalltalk/) | [Smalltalk背后的设计原则](https://www.codelab.club/blog/design-principles-behind-smalltalk/) | 吴文杰 |
-
+| [Learnable Programming](http://worrydream.com/LearnableProgramming/) | [易学编程](https://chengyichao.co/learnable-programming) | [Dreamsome](https://github.com/onesuper) |
 
 
 
